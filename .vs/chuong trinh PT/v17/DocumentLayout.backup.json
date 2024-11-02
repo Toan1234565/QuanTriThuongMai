@@ -1,0 +1,991 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|e:\\h\u1ECDc k\u1EF3 5\\ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch v\u1EE5\\chuong trinh pt\\chuong trinh pt\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\timkiem\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\timkiem\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\sapxepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\sapxepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\timkiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\shared\\giaodiensanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\shared\\giaodiensanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\shared\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\shared\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\themchitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\themchitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\timkiem\\locsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\timkiem\\locsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\danhsachchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\danhsachchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\xoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\capnhat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\capnhat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\quanlykhuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\quanlykhuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\danhmuc\\xoadm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\danhmuc\\xoadm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\hang\\capnhathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\hang\\capnhathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\shared\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\shared\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\hang\\themhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\hang\\themhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\hang\\xoahang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\hang\\xoahang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\danhmuc\\themdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\danhmuc\\themdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\danhmuc\\capnhatdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\danhmuc\\capnhatdm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\hang\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\hang\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\quanlykhachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\quanlykhachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\quanlydonhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\quanlydonhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\quanlyadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\quanlyadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\controllers\\quanlyhethongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\controllers\\quanlyhethongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\quanlykhuyenmai\\dskhuyenmai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\quanlykhuyenmai\\dskhuyenmai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\quanlyadmin\\dsadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\quanlyadmin\\dsadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\quanlykhachhang\\dskhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\quanlykhachhang\\dskhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\quanlydonhang\\dsdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\quanlydonhang\\dsdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\shared\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\shared\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\danhmuc\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\danhmuc\\danhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sapxep\\sxsoluongtang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sapxep\\sxsoluongtang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sapxep\\sxsoluonggiam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sapxep\\sxsoluonggiam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sapxep\\sxgiatang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sapxep\\sxgiatang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sapxep\\sxgiagiam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sapxep\\sxgiagiam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sapxep\\dsgiamgiagiam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sapxep\\dsgiamgiagiam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sanpham\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sanpham\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\sapxep\\dsgiamgiatang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\sapxep\\dsgiamgiatang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh pt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2832D45E-AAB9-4003-B34F-016456DA1D56}|chuong trinh PT\\chuong trinh PT.csproj|solutionrelative:chuong trinh pt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\DanhMuc.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "chuong trinh PT\\Models\\DanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:44:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "chuong trinh PT\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:33:20.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.css",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Content\\Site.css",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Content\\Site.css",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Content\\Site.css",
+              "RelativeToolTip": "chuong trinh PT\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T04:33:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admins.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\admins.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\admins.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\admins.cs",
+              "RelativeToolTip": "chuong trinh PT\\Models\\admins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:30:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.tt",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\Model1.tt",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.tt",
+              "RelativeToolTip": "chuong trinh PT\\Models\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-02T04:27:47.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\Model1.edmx.diagram",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.edmx.diagram",
+              "RelativeToolTip": "chuong trinh PT\\Models\\Model1.edmx.diagram",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T04:27:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\Model1.Designer.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.Designer.cs",
+              "RelativeToolTip": "chuong trinh PT\\Models\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:27:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\Model1.Context.tt",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "chuong trinh PT\\Models\\Model1.Context.tt",
+              "ViewState": "AgIAAHMCAAAAAAAAAAAAAHwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-02T04:23:34.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Models\\Model1.edmx",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "chuong trinh PT\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-01T21:45:41.419Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Shared\\ChiTiet.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\ChiTiet.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Shared\\ChiTiet.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T20:18:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:15:51.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "dsKhuyenMai.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyKhuyenMai\\dsKhuyenMai.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\QuanLyKhuyenMai\\dsKhuyenMai.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyKhuyenMai\\dsKhuyenMai.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\QuanLyKhuyenMai\\dsKhuyenMai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:55:22.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dsAdmin.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyAdmin\\dsAdmin.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\QuanLyAdmin\\dsAdmin.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyAdmin\\dsAdmin.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\QuanLyAdmin\\dsAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:55:05.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dsKhachHang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyKhachHang\\dsKhachHang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\QuanLyKhachHang\\dsKhachHang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyKhachHang\\dsKhachHang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\QuanLyKhachHang\\dsKhachHang.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:32:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dsDonHang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyDonHang\\dsDonHang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\QuanLyDonHang\\dsDonHang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\QuanLyDonHang\\dsDonHang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\QuanLyDonHang\\dsDonHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:30:26.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuanLyHeThongController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyHeThongController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\QuanLyHeThongController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyHeThongController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\QuanLyHeThongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:26:22.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "QuanLyAdminController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyAdminController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\QuanLyAdminController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyAdminController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\QuanLyAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:26:07.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuanLyKhuyenMaiController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyKhuyenMaiController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\QuanLyKhuyenMaiController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyKhuyenMaiController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\QuanLyKhuyenMaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:25:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QuanLyKhachHangController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyKhachHangController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\QuanLyKhachHangController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyKhachHangController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\QuanLyKhachHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:25:23.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "QuanLyDonHangController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyDonHangController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\QuanLyDonHangController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\QuanLyDonHangController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\QuanLyDonHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:24:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LocSanPham.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\TimKiem\\LocSanPham.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\TimKiem\\LocSanPham.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\TimKiem\\LocSanPham.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\TimKiem\\LocSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:01:42.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Web.config",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Web.config",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Web.config",
+              "RelativeToolTip": "chuong trinh PT\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T17:21:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HangController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\HangController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\HangController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\HangController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\HangController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:22:46.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Web.config",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Web.config",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Web.config",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Web.config",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T16:26:15.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\SanPhamController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAAADoBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:00:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ThemHang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\ThemHang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Hang\\ThemHang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\ThemHang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Hang\\ThemHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T08:28:50.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CapnhatHang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\CapnhatHang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Hang\\CapnhatHang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\CapnhatHang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Hang\\CapnhatHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:27:40.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "xoaHang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\xoaHang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Hang\\xoaHang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\xoaHang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Hang\\xoaHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:20:47.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "danhsach.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\danhsach.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Hang\\danhsach.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Hang\\danhsach.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Hang\\danhsach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:18:13.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "xoaDM.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\xoaDM.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\DanhMuc\\xoaDM.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\xoaDM.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\DanhMuc\\xoaDM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:13:31.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "danhsach.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\danhsach.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\danhsach.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\danhsach.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\danhsach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:58:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\ChiTiet.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\ChiTiet.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\ChiTiet.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAEBlwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:22:31.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "danhsachchitiet.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\danhsachchitiet.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\danhsachchitiet.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\danhsachchitiet.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\danhsachchitiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T12:54:22.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThemChiTietSanPham.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\ThemChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\ThemChiTietSanPham.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\ThemChiTietSanPham.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\ThemChiTietSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T07:06:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\DanhMucController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\DanhMucController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:54:24.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\Menu.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Shared\\Menu.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\Menu.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Shared\\Menu.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowKEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:59:02.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowEkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:36:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GiaodienSanPham.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\GiaodienSanPham.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Shared\\GiaodienSanPham.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\GiaodienSanPham.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Shared\\GiaodienSanPham.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:51:47.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchResults.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\TimKiem\\SearchResults.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\TimKiem\\SearchResults.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\TimKiem\\SearchResults.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\TimKiem\\SearchResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:38:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimKiemController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\TimKiemController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\TimKiemController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\TimKiemController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\TimKiemController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:37:31.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "dsgiamgiaTang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\dsgiamgiaTang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Sapxep\\dsgiamgiaTang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\dsgiamgiaTang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Sapxep\\dsgiamgiaTang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:59:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "dsgiamgiaGiam.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\dsgiamgiaGiam.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Sapxep\\dsgiamgiaGiam.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\dsgiamgiaGiam.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Sapxep\\dsgiamgiaGiam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:59:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "sxsoluongGiam.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxsoluongGiam.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Sapxep\\sxsoluongGiam.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxsoluongGiam.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Sapxep\\sxsoluongGiam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:48:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "sxsoluongTang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxsoluongTang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Sapxep\\sxsoluongTang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxsoluongTang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Sapxep\\sxsoluongTang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:48:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "sxGiaTang.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxGiaTang.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Sapxep\\sxGiaTang.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxGiaTang.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Sapxep\\sxGiaTang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:47:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SapxepController.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\SapxepController.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Controllers\\SapxepController.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Controllers\\SapxepController.cs",
+              "RelativeToolTip": "chuong trinh PT\\Controllers\\SapxepController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:44:51.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "chuong trinh PT\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:53:36.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_LayoutPage.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\_LayoutPage.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Shared\\_LayoutPage.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\_LayoutPage.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Shared\\_LayoutPage.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:27:06.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:51:20.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "sxGiaGiam.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxGiaGiam.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\Sapxep\\sxGiaGiam.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\Sapxep\\sxGiaGiam.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\Sapxep\\sxGiaGiam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:48:07.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "chuong trinh PT\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "chuong trinh PT\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:00:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:51:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Danhsachsanpham.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\Danhsachsanpham.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\Danhsachsanpham.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\Danhsachsanpham.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\Danhsachsanpham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:25:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "capnhatDM.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\capnhatDM.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\DanhMuc\\capnhatDM.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\capnhatDM.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\DanhMuc\\capnhatDM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:04:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThemDM.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\ThemDM.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\DanhMuc\\ThemDM.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\ThemDM.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\DanhMuc\\ThemDM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:00:23.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "danhsach.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\danhsach.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\DanhMuc\\danhsach.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\DanhMuc\\danhsach.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\DanhMuc\\danhsach.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAEBVwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:56:04.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "xoa.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\xoa.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\xoa.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\xoa.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\xoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:00:21.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "capnhat.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\capnhat.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\capnhat.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\capnhat.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\capnhat.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T11:21:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Them.cshtml",
+              "DocumentMoniker": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\Them.cshtml",
+              "RelativeDocumentMoniker": "chuong trinh PT\\Views\\SanPham\\Them.cshtml",
+              "ToolTip": "E:\\h\u1ECDc k\u1EF3 5\\Ph\u00E2n t\u00EDch ph\u1EA7n m\u00EAm theo h\u01B0\u1EDBng d\u1ECBch V\u1EE5\\chuong trinh PT\\chuong trinh PT\\Views\\SanPham\\Them.cshtml",
+              "RelativeToolTip": "chuong trinh PT\\Views\\SanPham\\Them.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T11:09:34.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

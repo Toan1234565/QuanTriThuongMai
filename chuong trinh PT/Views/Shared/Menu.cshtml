@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewBag.Title = "Menu";
+
+}
+
+
+<head>
+    <style>
+        .nav {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .nav-item {
+            position: relative;
+        }
+
+        .nav > li {
+            display: inline-block;
+        }
+
+        .nav .nav-link {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+        }
+
+        .sub-menu {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            list-style-type: none;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+
+            .sub-menu li {
+                display: block;
+            }
+
+        .nav-item:hover .sub-menu {
+            display: block;
+        }
+    </style>
+</head>
+<table>
+
+    <tr>
+        <td>
+            <p>tìm kiếm</p>
+            <form action="@Url.Action("SearchResults", "TimKiem")" method="get">
+
+                nhap ten<input type="text" name="name" />
+
+                gia tu <input type="number" name="to" />
+
+                den <input type="number" name="from" />
+                <button type="submit">tim</button>
+            </form>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Lọc sản phẩm</p>
+            @using (Html.BeginForm("LocSanPham", "TimKiem", FormMethod.Get))
+            {
+                chuong_trinh_PT.Models.QuanLyDuLieuEntities db = new chuong_trinh_PT.Models.QuanLyDuLieuEntities();
+                <div class="form-group">
+                    @{
+
+                        var DM = db.DanhMuc.ToList();
+                    }
+                    <select name="idDanhMuc" class="form-control">
+                        @foreach (var item in DM)
+                        {
+                            <option value="@item.DanhMucID">@item.TenDanhMuc</option>
+                        }
+                    </select>
+
+                </div>
+                <br />
+                <div class="form-group">
+                    @{
+
+                        var Hangs = db.Hang.ToList();
+                    }
+                    <select name="idhang" class="form-control">
+                        @foreach (var item in Hangs)
+                        {
+                            <option value="@item.HangID">@item.TenHang</option>
+                        }
+
+                    </select>
+
+
+                </div>
+                <br />
+                <div class="form-group">
+                    <p>Sap xep theo</p>
+                    @Html.DropDownList("sapXep", new SelectList(new[] {
+                    new SelectListItem { Text = "Giá Tăng Dần", Value = "Giatang" },
+                    new SelectListItem { Text = "Giá Giảm Dần", Value = "Giagiam" }
+                    }, "Value", "Text", ViewBag.SapXep), new { @class = "form-control" })
+
+                </div>
+                <div class="form-group">
+                    gia tu <input type="number" name="to" value="@ViewBag.to" class="form-control" />
+
+                    den <input type="number" name="from" value="@ViewBag.from" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-primary">Lọc</button>
+            }
+        </td>
+    </tr>
+    <tr>
+        <td>sap xep theo</td>
+        <td>
+            <ul class="nav">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Sắp xếp giá</a>
+                    <ul class="nav sub-menu">
+                        <li>@Html.ActionLink("Giá tăng", "sxGiaTang", "Sapxep")</li>
+                        <li>@Html.ActionLink("Giá giảm", "sxGiaGiam", "Sapxep")</li>
+                    </ul>
+                </li>
+            </ul>
+
+        </td>
+        <td>
+            <ul class="nav">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Giam gia</a>
+                    <ul class="nav sub-menu">
+                        <li>@Html.ActionLink(" tăng dan ", "dsgiamgiaTang", "Sapxep")</li>
+                        <li>@Html.ActionLink("giảm dan", "dsgiamgiaGiam", "Sapxep")</li>
+                    </ul>
+                </li>
+            </ul>
+
+        </td>
+        <td>
+            <a href="~/ChonSanPham/Oppo">ban chay</a>
+        </td>
+        <td>
+            <ul class="nav">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Sắp xếp so luong</a>
+                    <ul class="nav sub-menu">
+                        <li>@Html.ActionLink(" tăng dan ", "sxsoluongTang", "Sapxep")</li>
+                        <li>@Html.ActionLink("giảm dan", "sxsoluongGiam", "Sapxep")</li>
+                    </ul>
+                </li>
+            </ul>
+
+        </td>
+        <td>
+            <a href="~/ChonSanPham/Sanphankhac">noi bat</a>
+        </td>
+    </tr>
+   
+</table>
+

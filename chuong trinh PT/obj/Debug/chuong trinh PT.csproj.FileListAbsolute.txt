@@ -1,0 +1,83 @@
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\chuong trinh PT.dll.config
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\chuong trinh PT.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\chuong trinh PT.pdb
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\csc.exe
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\csc.exe.config
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\csc.rsp
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\csi.exe
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\csi.exe.config
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\csi.rsp
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.AppContext.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Collections.Immutable.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Console.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Globalization.Calendars.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.IO.Compression.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.IO.FileSystem.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Net.Http.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Net.Sockets.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Reflection.Metadata.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.ValueTuple.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Xml.XPath.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\vbc.exe
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\vbc.exe.config
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\vbc.rsp
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\VBCSCompiler.exe
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\roslyn\VBCSCompiler.exe.config
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Antlr3.Runtime.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\EntityFramework.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\EntityFramework.SqlServer.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Microsoft.Web.Infrastructure.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Newtonsoft.Json.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Helpers.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Mvc.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Optimization.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Razor.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.WebPages.Deployment.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.WebPages.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.WebPages.Razor.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\WebGrease.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\EntityFramework.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\EntityFramework.SqlServer.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Helpers.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Mvc.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Optimization.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.Razor.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.WebPages.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.WebPages.Deployment.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\System.Web.WebPages.Razor.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Newtonsoft.Json.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Antlr3.Runtime.pdb
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\obj\Debug\chuong trinh PT.csproj.AssemblyReference.cache
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\obj\Debug\chuong trinh PT.csproj.CoreCompileInputs.cache
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\obj\Debug\chuong trinh PT.dll
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\obj\Debug\chuong trinh PT.pdb
+E:\học kỳ 5\Phân tích phần mêm theo hướng dịch Vụ\chuong trinh PT\chuong trinh PT\obj\Debug\chuong t.73DE2C00.Up2Date

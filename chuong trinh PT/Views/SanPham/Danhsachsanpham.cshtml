@@ -1,0 +1,36 @@
+﻿
+
+@{
+    ViewBag.Title = "Danhsachsanpham";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ 
+    var db = new chuong_trinh_PT.Models.QuanLyDuLieuEntities();
+    var ds = (from sp in db.SanPham join Hang in db.Hang on sp.HangID equals Hang.HangID select Hang).Distinct().ToList();
+    <h3>danh sach hang san xuat</h3>
+    <table>
+       <thead>
+           <tr>
+               <td>
+                   Ma
+               </td>
+               <td>
+                   ten hang 
+               </td>
+           </tr>
+       </thead>
+        <tbody>
+            @foreach(var item in ds)
+            {
+                <tr>
+                    <td>
+                        @item.HangID
+                    </td>
+                    <td>
+                        @item.TenHang
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

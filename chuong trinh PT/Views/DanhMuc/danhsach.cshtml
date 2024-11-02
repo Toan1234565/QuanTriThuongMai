@@ -1,0 +1,45 @@
+﻿@model IEnumerable<chuong_trinh_PT.Models.DanhMuc>
+
+@{
+    ViewBag.Title = "danhsach";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>danhsach</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <p>ma danh muc</p>
+        </th>
+        <th>
+            <p>Ten danh muc</p>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DanhMucID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDanhMuc)
+            </td>
+            <td>
+                @Html.ActionLink("xoa", "xoaDM", new { id = item.DanhMucID }) |
+                @Html.ActionLink("cap nhat", "capnhatDM", new { id = item.DanhMucID }) |
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="9">
+            <div class="form-actions no-color">
+                <a href="@Url.Action("ThemDM", "DanhMuc")" class="btn btn-default">Thêm danh muc mới</a>
+            </div>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<chuong_trinh_PT.Models.SanPham>
+@{
+    ViewBag.Title = "GiaodienSanPham";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.TenSanPham)</th>
+        <th>@Html.DisplayNameFor(model => model.Soluong)</th>
+        <th>@Html.DisplayNameFor(model => model.MoTa)</th>
+        <th>@Html.DisplayNameFor(model => model.Gia)</th>
+        <th>@Html.DisplayNameFor(model => model.DanhMucID)</th>
+        <th>@Html.DisplayNameFor(model => model.HangID)</th>
+        <th>@Html.DisplayNameFor(model => model.HinhAnh)</th>
+        <th>@Html.DisplayNameFor(model => model.KhuyenMai)</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.TenSanPham)</td>
+            <td>@Html.DisplayFor(modelItem => item.Soluong)</td>
+            <td>@Html.DisplayFor(modelItem => item.MoTa)</td>
+            <td>@Html.DisplayFor(modelItem => item.Gia)</td>
+            <td>@Html.DisplayFor(modelItem => item.DanhMucID)</td>
+            <td>@Html.DisplayFor(modelItem => item.HangID)</td>
+            <td>@Html.DisplayFor(modelItem => item.HinhAnh)</td>
+            <td>@Html.DisplayFor(modelItem => item.KhuyenMai)</td>
+            <td>
+                @Html.ActionLink("Xóa", "Xoa", "SanPham", new { id = item.SanPhamID }, null) |
+                @Html.ActionLink("Cập nhật", "CapNhat", "SanPham", new { id = item.SanPhamID }, null)|
+                @Html.ActionLink("Chi tiet", "ChiTiet", "SanPham", new { id = item.SanPhamID }, null)
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="9">
+            <div class="form-actions no-color">
+                <a href="@Url.Action("Them", "SanPham")" class="btn btn-default">Thêm sản phẩm mới</a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>So sanh </p>
+            <form action="@Url.Action("Sosanh", "SanPham")" method="get">
+
+                nhap ten<input type="text" name="name1" />
+                nhap ten<input type="text" name="name2" />
+
+                <button type="submit">tim</button>
+            </form>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<chuong_trinh_PT.Models.SanPham>
+
+@{
+    ViewBag.Title = "sxGiaGiam";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Html.Partial("Menu", Model)
+<h2>sxGiaGiam</h2>
+
+
+@Html.Partial("GiaodienSanPham", Model)

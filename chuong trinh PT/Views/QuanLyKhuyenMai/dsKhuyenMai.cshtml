@@ -1,0 +1,63 @@
+﻿@model IEnumerable<chuong_trinh_PT.Models.KhuyenMai>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenKhuyenMai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mota)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayBD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayKT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LoaiKM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DieuKien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SanPhamApDung)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenKhuyenMai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mota)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayBD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayKT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LoaiKM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DieuKien)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SanPhamApDung)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.KhuyenMaiid }) |
+            @Html.ActionLink("Details", "Details", new { id=item.KhuyenMaiid }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.KhuyenMaiid })
+        </td>
+    </tr>
+}
+
+</table>

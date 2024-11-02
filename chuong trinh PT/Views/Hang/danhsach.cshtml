@@ -1,0 +1,39 @@
+﻿@model IEnumerable<chuong_trinh_PT.Models.Hang>
+@{
+    ViewBag.Title = "danhsach";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            <p>ma danh muc</p>
+        </th>
+        <th>
+            <p>Ten danh muc</p>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HangID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenHang)
+            </td>
+            <td>
+                @Html.ActionLink("xoa", "xoaHang", new { id = item.HangID }) |
+                @Html.ActionLink("cap nhat", "CapnhatHang", new { id = item.TenHang }) |
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="9">
+            <div class="form-actions no-color">
+                <a href="@Url.Action("ThemHang", "Hang")" class="btn btn-default">Thêm danh muc mới</a>
+            </div>
+        </td>
+    </tr>
+</table>
